@@ -1,0 +1,15 @@
+# Core
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+psutil>=5.9.0
+
+# CPU mode
+onnxruntime>=1.16.0
+
+# Hailo mode (install separately on RPi with Hailo SDK)
+# pip install hailort
+# -- or --
+# source /opt/hailo/setup_env.sh
+
+# Model export (run on host PC, not on RPi)
+# pip install ultralytics

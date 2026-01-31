@@ -1,0 +1,13 @@
+,CPU (YOLOv8n),Hailo-8 (YOLOv8m)
+Samples,905,1165
+FPS mean,2.17,15.98
+FPS median,2.08,15.99
+FPS p01,1.46,15.66
+FPS min,0.61,15.46
+FPS max,4.16,16.24
+e2e_ms mean,486.4,62.7
+inference_ms mean,477.6,57.2
+cpu% mean,97.9,24.0
+temp mean,86.0,81.2
+temp max,88.7,85.3
+throttle_ratio,100.0%,77.3%
